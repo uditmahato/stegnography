@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(23, 105, 182);
+}
+
+h2,
+h5 {
+    color: white;
+}
+
+.cont {
+    display: flex;
+    height: 90vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.img-cont {
+    margin-top: 1px;
+    display: flex;
+}
+
+.img1 {
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+}
+
+img {
+    width: 300px;
+}
+
+.opa {
+    opacity: 0;
+    width: 10px;
+}
